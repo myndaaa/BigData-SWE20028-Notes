@@ -23,3 +23,24 @@ in parallel, which makes it much faster and scalable compared to traditional dat
 - file system that splits large files into smaller blocks and distributes them across multiple machines, creating a "distributed" storage.
 - HDFS allows for fault tolerance by replicating these blocks on different machines, so data isn’t lost if one machine fails.
 
+####This command is used to upload files from the local file system to HDFS
+```
+hadoop fs -put shakespeare /user/training/shakespeare
+```
+####Listing files in HDFS
+```
+hadoop fs -ls /user/training/
+
+```
+
+####Removing files from HDFS
+```
+hadoop fs -rm /user/training/shakespeare
+
+```
+
+####Viewing files in HDFS
+````
+hadoop fs -cat /user/training/shakespeare
+
+````
