@@ -79,4 +79,4 @@ To receive a help message that outlines how to use the command and its various o
 ```
 hadoop
 ```
-[img](images/img1.png)
+[img](/images/img1.png)
