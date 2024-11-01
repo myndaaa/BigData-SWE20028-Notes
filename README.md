@@ -60,3 +60,23 @@ hadoop fs -cat /user/training/shakespeare
  - Syntax Highlighting: Supports syntax highlighting for coding, making it ideal for editing code
  - Usage: Good for writing code or editing files in a graphical Linux environment
  - Sample usage: `gedit myfile.txt &`
+
+
+## Setting up the environment
+
+Run script to configure environment
+```
+~/scripts/developer/training_setup_dev.sh
+
+```
+**What this does:** <br>
+The ~ symbol represents the home directory. <br>
+The script path suggests it is located in a folder called scripts/developer/. <br>
+Running this script sets up necessary configurations or installations that the labs will require.<br>
+**Understanding Hadoop**<br>
+Hadoop is already installed, configured, and running on the virtual machine <br>
+To receive a help message that outlines how to use the command and its various options
+```
+hadoop
+```
+[img](images/img1.png)
