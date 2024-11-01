@@ -52,11 +52,11 @@ hadoop fs -cat /user/training/shakespeare
   - User-Friendliness: Beginner-friendly with a simpler interface
   - Shortcut Guidance: Shows helpful shortcuts at the bottom of the screen (e.g., ^X for Exit, where ^ means "Ctrl")
   - Usage: Ideal for quick edits, especially when working over SSH or without a graphical interface
-  - Sample usage: nano myfile.txt
+  - Sample usage: `nano myfile.txt`
 2. Gedit
  - Type: Graphical text editor
  - Interface: GUI-based with menus, buttons, and a visual interface
  - User-Friendliness: Very beginner-friendly for users used to traditional text editors like Notepad on Windows
  - Syntax Highlighting: Supports syntax highlighting for coding, making it ideal for editing code
  - Usage: Good for writing code or editing files in a graphical Linux environment
- - Sample usage: gedit myfile.txt &
+ - Sample usage: `gedit myfile.txt &`
