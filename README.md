@@ -20,6 +20,6 @@ in parallel, which makes it much faster and scalable compared to traditional dat
 
 *HDFS (Hadoop Distributed File System):*
 
--file system that splits large files into smaller blocks and distributes them across multiple machines, creating a "distributed" storage.
--HDFS allows for fault tolerance by replicating these blocks on different machines, so data isn’t lost if one machine fails.
+- file system that splits large files into smaller blocks and distributes them across multiple machines, creating a "distributed" storage.
+- HDFS allows for fault tolerance by replicating these blocks on different machines, so data isn’t lost if one machine fails.
 
