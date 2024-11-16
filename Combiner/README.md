@@ -24,7 +24,7 @@ pair for each word with a value of 1 (count of that word).
  ## Running this
  navigate 
  ```
- cd ~/workspace/wordcount/src
+ cd ~/workspace/combiner/src
  ```
  compile to class
  ```
