@@ -136,7 +136,10 @@ $ less ~/shakepoems.txt
 This command is a file viewer that allows to view the contents of files in a scrollable format.
 We can navigate through the file using the arrow keys, and or exit the viewer by pressing q.
 
-## Further details to be found here
+## Topics
+
+- [Map Reduce](./MapReduce)
+- [MRUnit Testing](./MRUnit)
 
 
 
