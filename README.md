@@ -145,6 +145,7 @@ cd ~/workspace/
 - [Week 2: Map Reduce](./MapReduce)
 - [Week 3: MRUnit Testing](./MRUnit)
 - [Week 4: Toolrunner](./Toolrunner)
+- [Week 4: Combiner](./Combiner)
 
 
 
