@@ -138,8 +138,13 @@ We can navigate through the file using the arrow keys, and or exit the viewer by
 
 ## Topics
 
-- [Map Reduce](./MapReduce)
-- [MRUnit Testing](./MRUnit)
+```
+cd ~/workspace/
+```
+
+- [Week 2: Map Reduce](./MapReduce)
+- [Week 3: MRUnit Testing](./MRUnit)
+- [Week 4: Toolrunner](./Toolrunner)
 
 
 
