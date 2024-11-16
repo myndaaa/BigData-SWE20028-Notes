@@ -1,8 +1,8 @@
-** 1. What is ToolRunner? **
+**1.What is ToolRunner?**
 - ToolRunner is a utility in Hadoop that simplifies the process of running MapReduce jobs by managing the command-line arguments, configuration, and job execution for you.
 - It acts as a wrapper around the MapReduce driver (the main program that launches the job), so instead of manually setting up and executing a Hadoop job, we can use ToolRunner to handle the execution flow more easily.
 
-** 2. What is a Driver? **
+**2.What is a Driver?**
 - The driver is the main program that sets up and runs the MapReduce job. It’s where we define things like the input files, output directories, and the MapReduce job configuration (like Mapper and Reducer).
 - More simply, driver is the "controller" that directs the flow of the job, from reading the data to processing it and finally saving the results.
 
@@ -11,7 +11,7 @@ The ToolRunner in Hadoop MapReduce job is a utility class that
 simplifies the execution of Hadoop jobs by providing a mechanism for
  running Hadoop tools (like MapReduce jobs) in a consistent way.
  Here's a brief overview of what happened in AvgWordLength project,
- with a focus on the role of ToolRunner:<br>
+ with a focus on the role of ToolRunner:<br><br><br>
 **What the ToolRunner Did**<br>
 
 1. Job Configuration:
