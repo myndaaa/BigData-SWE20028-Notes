@@ -149,6 +149,8 @@ cd ~/workspace/
 - [Week 5: Toolrunner](./Toolrunner_pt2)
 - [Week 5: Logging](./Logging)
 - [Week 5: Counters](./Counters)
+- [week 6: Writables](./Writables)
+- [Week 6: createsequencefile](./Sequence)
 
 
 

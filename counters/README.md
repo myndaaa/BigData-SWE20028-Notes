@@ -41,8 +41,8 @@ Run it
 hadoop jar counter.jar stubs.ImageCounter /user/training/testlog /user/training/output
 
 ```	
-![ok](counter1.png)
 ![ok](counter2.png)
+![ok](counter1.png)
 	
 ## Output.
 
