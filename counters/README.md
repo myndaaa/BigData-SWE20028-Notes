@@ -44,7 +44,7 @@ hadoop jar counter.jar stubs.ImageCounter /user/training/testlog /user/training/
 ![ok](counter1.png)
 ![ok](counter2.png)
 	
-## Output
+## Output.
 
 The output will be empty in the HDFS output directory because this is a map-only job, and mappers do not write any key-value pairs to output files. 
 Instead, it uses counters to display results, and the output will be visible in the console, similar to:
