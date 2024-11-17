@@ -15,7 +15,7 @@ hadoop jar toolrunner.jar stubs.AvgWordLength -Dmapred.map.child.log.level=DEBUG
 
 ```
 ## Step 2: View the log 
-Ppen the Job Tracker UI at http://localhost:50030/jobtracker.jsp
+Open the Job Tracker UI at http://localhost:50030/jobtracker.jsp
 ![pic](log1.png)
 ![pic](log2.png)
 ![pic](log3.png)
