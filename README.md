@@ -148,7 +148,7 @@ cd ~/workspace/
 - [Week 4: Combiner](./Combiner)
 - [Week 5: Toolrunner](./Toolrunner_pt2)
 - [Week 5: Logging](./Logging)
-- [Week 5: Counters](./counters)
+- [Week 5: Counters](./Counters)
 
 
 
