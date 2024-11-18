@@ -1,5 +1,4 @@
-This lab involves creating a Word Co-occurrence application using Hadoop MapReduce, where the task is to count how often two 
-consecutive words appear together in a text.
+# This lab involves creating a Word Co-occurrence application using Hadoop MapReduce, where the task is to count how often two consecutive words appear together in a text.
 
 1. SumReducer (Reducer)<br>
 The SumReducer aggregates the counts for each word pair:<br>
