@@ -78,11 +78,11 @@ This class represents a custom data type, StringPairWritable, that holds two Str
 ---
 
 # CLI running it
- Go to directory, create class files and compile it to jar
- ![pic](writ1.png)
- Create necessary directory and put the datafile to hdfs
- ![pic](writ2.png)
- run the job on specified directory
- ![pic](writ3.png)
- use cat to view output
- ![pic](writ4.png)
+ Go to directory, create class files and compile it to jar <br>
+ ![pic](writ1.png)<br>
+ Create necessary directory and put the datafile to hdfs<br>
+ ![pic](writ2.png)<br>
+ run the job on specified directory<br>
+ ![pic](writ3.png)<br>
+ use cat to view output<br>
+ ![pic](writ4.png)<br>
