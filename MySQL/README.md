@@ -91,14 +91,12 @@ cd ~/workspace/oozie-labs
 
  Changes the directory to the workspace for this lab where the Oozie job folders (lab1-java-mapreduce and lab2-sort-wordcount) are stored.
 - Inspect job.properties and workflow.xml Files in lab1-java-mapreduce/job
-
-		- The job.properties file contains configuration properties for the job, including:
-
-			- Base Directory: The root directory for the job files in HDFS.
-			- Input and Output Directories: Relative paths for the input and output files in HDFS, where WordCount reads input data and stores results.
-		- The workflow.xml file defines the Oozie workflow steps, specifying:
-			- The sequence of tasks, dependencies, and the job type (e.g., a Java MapReduce job).
-			- How WordCount operates in this workflow, including its setup and output handling.
+	- The job.properties file contains configuration properties for the job, including:
+		- Base Directory: The root directory for the job files in HDFS.
+		- Input and Output Directories: Relative paths for the input and output files in HDFS, where WordCount reads input data and stores results.
+	- The workflow.xml file defines the Oozie workflow steps, specifying:
+		- The sequence of tasks, dependencies, and the job type (e.g., a Java MapReduce job).
+		- How WordCount operates in this workflow, including its setup and output handling.
 		
 		
 Inspect and Run the Shell Script run.sh
