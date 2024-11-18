@@ -1,4 +1,7 @@
-# Big Data Notes
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mountains+of+Christmas&weight=700&size=40&pause=1000&color=750CAE&background=21212152&center=true&vCenter=true&repeat=false&width=1000&height=90&lines=BIG+++++DATA+++++NOTES)](https://git.io/typing-svg)
+
+---
+
 This notes make use of the CLoudera Training VM, The VM image is can be found [here](https://drive.google.com/file/d/1pizgWHk6VAgCgpiMXeFbGqQ4KmY41NJ3/view)
 
 ### Getting Started: Transferring files back and forth via VM Ware
