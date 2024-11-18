@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mountains+of+Christmas&weight=700&size=40&pause=1000&color=750CAE&background=21212152&center=true&vCenter=true&repeat=false&width=800&height=90&lines=BIG+++++DATA+++++NOTES)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mountains+of+Christmas&weight=700&size=40&pause=1000&color=750CAE&background=21212152&center=true&vCenter=true&repeat=false&width=1000&height=90&lines=BIG+++++DATA+++++NOTES)](https://git.io/typing-svg)
 
 ---
 
