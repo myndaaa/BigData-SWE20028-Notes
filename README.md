@@ -151,6 +151,7 @@ cd ~/workspace/
 - [Week 5: Counters](./Counters)
 - [week 6: Writables](./Writables)
 - [Week 6: createsequencefile](./Sequence)
+- [Week 6: Practicioner](./Practicioner)
 
 
 
