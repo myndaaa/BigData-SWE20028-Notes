@@ -185,3 +185,18 @@ grunt> DESCRIBE data;
 grunt> QUIT;
 
 ```
+
+we run the pig files one by one in the same directory
+
+
+```
+
+[training@localhost pig_etl]$ nano first_etl.pig
+[training@localhost pig_etl]$ pig first_stl.pig
+2024-11-19 10:23:52,003 INFO org.apache.pig.Main: Apache Pig version 0.10.0-cdh4.2.1 (rexported) compiled Apr 22 2013, 12:04:54
+2024-11-19 10:23:52,003 INFO org.apache.pig.Main: Logging error messages to: /home/training/training_materials/analyst/exercises/pig_etl/pig_1732029832001.log
+2024-11-19 10:23:52,736 ERROR org.apache.pig.Main: ERROR 2997: Encountered IOException. File first_stl.pig does not exist
+Details at logfile: /home/training/training_materials/analyst/exercises/pig_etl/pig_1732029832001.log
+
+```
+
