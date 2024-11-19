@@ -190,6 +190,7 @@ we run the pig files one by one in the same directory
 
 
 ```
+-- where messages are logged--
 
 [training@localhost pig_etl]$ nano first_etl.pig
 [training@localhost pig_etl]$ pig first_stl.pig
@@ -200,3 +201,23 @@ Details at logfile: /home/training/training_materials/analyst/exercises/pig_etl/
 
 ```
 
+[chbi](etl1.png)
+
+
+## sample data 2
+create a baby sized sample data 
+
+```
+head -n 25 $ADIR/data/ad_data2.txt > sample2.txt
+
+```
+
+now i run the second_etl<br>
+then this to see output
+
+```
+hadoop fs -cat /dualcore/ad_data2/part* | head -15
+```
+
+
+[chbi](etl2.png)
