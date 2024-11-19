@@ -220,4 +220,20 @@ hadoop fs -cat /dualcore/ad_data2/part* | head -15
 ```
 
 
-[chbi](etl2.png)
+![chbi](etl2.png)
+
+# Analyzing Ad Campaign Data with Pig
+**Results from running low_cost_sites.pig**
+
+
+![chbi](etl3.png)
+
+## Finding high cost keywords
+
+copying the file to another File
+
+```
+cp low_cost_sites.pig high_cost_keywords.pig
+```
+
+then we edit and run the new high_cost_keyword via `pig high_cost_keywords.pig`
