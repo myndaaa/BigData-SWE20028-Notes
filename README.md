@@ -158,7 +158,7 @@ cd ~/workspace/
 - [Week 7: Inverted Index](./Index)
 - [Week 7: Word Co Occurance](./WordCo)
 - [Week 8: Sqoop, MySQL and Oozie workflow](./MySQL)
-- [Week 9: ](./ETL)
+- [Week 9: ETL process](./ETL)
 - [Week 10: ](./)
 - [Week 11: ](./)
 - [Assignment 2](./)

@@ -22,7 +22,9 @@ in a MySQL database.
 
 <br>
 logging into mysql and observing
+
 ```
+
 [training@localhost data_ingest]$ mysql --user=training --password=training dualcore
 Reading table information for completion of table and column names
 You can turn off this feature to get a quicker startup with -A
@@ -56,8 +58,11 @@ mysql> SHOW TABLES
 mysql> 
 
 ```
+
 Review Structures
+
 ```
+
 mysql> DESCRIBE employees;
 +-----------+-------------+------+-----+---------+-------+
 | Field     | Type        | Null | Key | Default | Extra |
@@ -96,7 +101,9 @@ mysql> Select emp_id, fname, lname, state, salary FROM employees LIMIT 10;
 mysql> quit
 Bye
 [training@localhost data_ingest]$ 
+
 ```
+
 then we sqoop to import it to dualcore
 
 ```
