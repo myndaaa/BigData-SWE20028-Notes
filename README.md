@@ -159,8 +159,8 @@ cd ~/workspace/
 - [Week 7: Word Co Occurance](./WordCo)
 - [Week 8: Sqoop, MySQL and Oozie workflow](./MySQL)
 - [Week 9: ETL process](./ETL)
-- [Week 10: ](./)
-- [Week 11: ](./)
+- [Week 10&11: Pig and Hive ](./pigHive)
+<br>
 - [Assignment 2](./)
 
 
