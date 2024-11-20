@@ -161,7 +161,8 @@ cd ~/workspace/
 - [Week 9: ETL process](./ETL)
 - [Week 10&11: Pig and Hive ](./pigHive)
 <br>
-- [Assignment 2](./)
+
+- [Assignment 2](./syx)
 
 
 
