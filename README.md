@@ -16,7 +16,7 @@ Once we turn on the VM, the following steps are done<br>
 Open virtual machine > select the .vmx file/d/1pizgWHk6VAgCgpiMXeFbGqQ4KmY41NJ3/view
 
 ## Using HDFS
-Hadoop is an **open-source framework** designed for storing and processing large datasets 
+Hadoop is an **open-source framework** designed for storing and processing large datasets;
 across multiple machines in a distributed environment. It's particularly useful for 
 big data tasks because it allows large datasets to be stored, processed, and analyzed 
 in parallel, which makes it much faster and scalable compared to traditional data processing.<br>
